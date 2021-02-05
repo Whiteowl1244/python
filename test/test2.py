@@ -1,0 +1,8 @@
+name = input('What is your name?\n')
+surname = input('What is your surname\n')
+year = input('What is your year\n')
+sd = input('What is your student id\n')
+print('%s'%name)
+print('%s'%surname)
+print('%s'%year)
+print('%s'%sd)
